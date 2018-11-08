@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1406357061 source:c:\users\km-hasan\desktop\fg\main.cpp
+	<iostream>
+	<Windows.h>
+
+1406365055 >
+
+1406365055 source:e:\fg\main.cpp
+	<iostream>
+	<Windows.h>
+
+1406365055 source:/media/user/New Volume/fg/main.cpp
+	<iostream>
+	<Windows.h>
+
